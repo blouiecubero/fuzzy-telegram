@@ -1,4 +1,9 @@
+.gitignore
 /vendor/
 /logs/*
 !/logs/README.md
 *.log
+.ebextensions/10_run_migrations.config
+fuzzy-telegram-18NOV2016.zip
+migrations/20170415061416_create_new_db.php
+private-key.pem
